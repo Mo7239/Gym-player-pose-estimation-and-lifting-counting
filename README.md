@@ -89,3 +89,4 @@ Ultralytics for the YOLO implementation
 OpenCV for the computer vision tools
 
 ## Contact
+For any inquiries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mohamed-wasef-789743233/)   
