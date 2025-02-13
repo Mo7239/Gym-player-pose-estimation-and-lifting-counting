@@ -22,9 +22,9 @@ Install the required packages:
 ```bash 
 pip install opencv-python
 pip install ultralytics
-
-Download the YOLO pose estimation model (yolo11x-pose.pt) and place it in the project directory.
 ```
+Download the YOLO pose estimation model (yolo11x-pose.pt) and place it in the project directory.
+
 
 ## Usage
 
